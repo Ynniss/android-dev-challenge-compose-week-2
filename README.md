@@ -6,7 +6,7 @@
 
 
 ## :scroll: Description
-**Star countdown timer** is a basic one screen app, using some basic animations
+**Star countdown timer** is a one screen app made with Jetpack Compose, using some basic animations
 
 ## :bulb: Motivation and Context
 Really cool to try out some animations
