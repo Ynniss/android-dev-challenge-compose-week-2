@@ -10,6 +10,7 @@
 
 ## :bulb: Motivation and Context
 Really cool to try out some animations
+
 I saw there was a lot of different tools to achieve what we want to do
 
 
